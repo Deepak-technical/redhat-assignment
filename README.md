@@ -1,4 +1,4 @@
-```
+
 # Character Management Components
 
 React components for managing character information with form and list views.
@@ -110,17 +110,6 @@ To run the components in your project:
 2. Import the components
 3. Pass required props
 
-No additional dependencies needed beyond React.
+Required UI library
+ShadcbUI
 
-Copy
-
-```
-This README provides:
-- Clear component documentation
-- Usage examples
-- Type definitions
-- Setup instructions
-- Feature overview
-
-It's focused solely on the components without any library packaging information.
-```
